@@ -1,0 +1,15 @@
+C:\Users\t-jalvarado\Source\Repos\PangeansMatchingGame\MatchingGame\bin\Debug\net8.0\MatchingGame.exe
+C:\Users\t-jalvarado\Source\Repos\PangeansMatchingGame\MatchingGame\bin\Debug\net8.0\MatchingGame.deps.json
+C:\Users\t-jalvarado\Source\Repos\PangeansMatchingGame\MatchingGame\bin\Debug\net8.0\MatchingGame.runtimeconfig.json
+C:\Users\t-jalvarado\Source\Repos\PangeansMatchingGame\MatchingGame\bin\Debug\net8.0\MatchingGame.dll
+C:\Users\t-jalvarado\Source\Repos\PangeansMatchingGame\MatchingGame\bin\Debug\net8.0\MatchingGame.pdb
+C:\Users\t-jalvarado\Source\Repos\PangeansMatchingGame\MatchingGame\obj\Debug\net8.0\MatchingGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\t-jalvarado\Source\Repos\PangeansMatchingGame\MatchingGame\obj\Debug\net8.0\MatchingGame.AssemblyInfoInputs.cache
+C:\Users\t-jalvarado\Source\Repos\PangeansMatchingGame\MatchingGame\obj\Debug\net8.0\MatchingGame.AssemblyInfo.cs
+C:\Users\t-jalvarado\Source\Repos\PangeansMatchingGame\MatchingGame\obj\Debug\net8.0\MatchingGame.csproj.CoreCompileInputs.cache
+C:\Users\t-jalvarado\Source\Repos\PangeansMatchingGame\MatchingGame\obj\Debug\net8.0\MatchingGame.sourcelink.json
+C:\Users\t-jalvarado\Source\Repos\PangeansMatchingGame\MatchingGame\obj\Debug\net8.0\MatchingGame.dll
+C:\Users\t-jalvarado\Source\Repos\PangeansMatchingGame\MatchingGame\obj\Debug\net8.0\refint\MatchingGame.dll
+C:\Users\t-jalvarado\Source\Repos\PangeansMatchingGame\MatchingGame\obj\Debug\net8.0\MatchingGame.pdb
+C:\Users\t-jalvarado\Source\Repos\PangeansMatchingGame\MatchingGame\obj\Debug\net8.0\MatchingGame.genruntimeconfig.cache
+C:\Users\t-jalvarado\Source\Repos\PangeansMatchingGame\MatchingGame\obj\Debug\net8.0\ref\MatchingGame.dll
